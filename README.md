@@ -5,6 +5,7 @@
 ## En este portafolio se evidencian los trabajos a lo largo del BootCamp de Desarrollo Web FullStack.
 
 ***
+* Link del portafolio: https://wil986.github.io/PortafolioPersonal
 ### Tecnologías usadas
 * Javascript
 * HTML
